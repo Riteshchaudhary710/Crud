@@ -91,7 +91,6 @@ Select **Sign In**
 
 
 :term:`reStructuredText<RST>`
-
 :term:`Sphinx`
 
 .. glossary::
